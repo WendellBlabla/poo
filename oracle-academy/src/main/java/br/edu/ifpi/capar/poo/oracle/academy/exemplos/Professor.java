@@ -1,19 +1,19 @@
-package br.edu.ifpi.capar.poo.oracle.academy.exemplos;
-
-/**
- *
- * @author Denylson Melo
+/*
+ * To change this license header, choose License Headers in Project Properties.
+ * To change this template file, choose Tools | Templates
+ * and open the template in the editor.
  */
+package oracle.exercicio.pkgdo.denilson;
 public class Professor {
 
     //propriedades
-    nome;
-    idade;
-    curso;
-    cpf;
-    rg;
-    matricula;
-    titulacao;
+    String nome;
+    short idade;
+    String curso;
+    String cpf;
+    String rg;
+    String matricula;
+    String titulacao;
     
     //comportamentos
     darAula();

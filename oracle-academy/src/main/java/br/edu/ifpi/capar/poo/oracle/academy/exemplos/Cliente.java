@@ -1,5 +1,4 @@
-package br.edu.ifpi.capar.poo.oracle.academy.exemplos;
-
+package oracle.exercicio.pkgdo.denilson;
 import java.math.BigDecimal;
 
 /**

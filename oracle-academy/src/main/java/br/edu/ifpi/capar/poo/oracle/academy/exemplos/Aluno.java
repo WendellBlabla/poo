@@ -1,19 +1,14 @@
-package br.edu.ifpi.capar.poo.oracle.academy.exemplos;
-
-/**
- *
- * @author Denylson Melo
- */
+package oracle.exercicio.pkgdo.denilson;
 public class Aluno {
 
     //propriedades
-    nome;
-    matricula;
-    idade;
-    cpf;
-    rg;
-    escolaOrigem;
-    curso;
+    String nome;
+    String matricula;
+    short idade;
+    String cpf;
+    String rg;
+    String escolaOrigem;
+    String curso;
     
     //comportamentos
     estudar();
@@ -24,6 +19,5 @@ public class Aluno {
     chorar();
     desistir();
     persistir();
-    
     
 }
